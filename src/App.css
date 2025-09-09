@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'meow';
+  src: url('/public/fonts/Lalezar-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'meow', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
